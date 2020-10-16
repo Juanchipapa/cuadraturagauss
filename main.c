@@ -3,6 +3,7 @@
 #include <math.h>
 
 // Proyecto 2, al ejecutar se puede verificar todos los resultados.
+printf ("Hola perris\n");
 
 double cuadGauss( double a, double b, double (*fun)(double) );
 double CuadraturaGaussN3( double a, double b, double (*fun)(double) );
