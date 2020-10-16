@@ -1,2 +1,2 @@
 # cuadraturagauss
-Pruebas para calcular areas bajo la curva. Utilizando polinomios interpolantes especiales.
+Hola vale, sobrozongo tongo tongo.
